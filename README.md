@@ -1,4 +1,4 @@
-##Breast Cancer Prediction using SVM Model
+# Breast Cancer Prediction using SVM Model
 
 This repository contains code for predicting breast cancer using a Support Vector Machine (SVM) model. The SVM model is a supervised machine learning algorithm that is commonly used for classification tasks like this one.
 
